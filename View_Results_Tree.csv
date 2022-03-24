@@ -1,0 +1,55 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1647879193577,924,HTTP Request,200,OK,Thread Group 1-1,text,true,,67219,236,10,10,https://www.amazon.in/,156,0,80
+1647879193577,156,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,169,118,10,10,http://www.amazon.in/,156,0,80
+1647879193735,766,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,67050,118,10,10,https://www.amazon.in/,485,0,232
+1647879194562,907,HTTP Request,200,OK,Thread Group 1-2,text,true,,67964,236,9,9,https://www.amazon.in/,160,0,77
+1647879194562,160,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,,true,,169,118,9,9,http://www.amazon.in/,160,0,77
+1647879194724,745,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,67795,118,9,9,https://www.amazon.in/,504,0,245
+1647879195562,863,HTTP Request,200,OK,Thread Group 1-3,text,true,,68126,236,8,8,https://www.amazon.in/,138,0,68
+1647879195562,138,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,,true,,169,118,8,8,http://www.amazon.in/,138,0,68
+1647879195701,724,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,67957,118,8,8,https://www.amazon.in/,491,0,232
+1647879196561,1002,HTTP Request,200,OK,Thread Group 1-4,text,true,,66368,236,7,7,https://www.amazon.in/,137,0,67
+1647879196561,137,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,,true,,169,118,7,7,http://www.amazon.in/,137,0,67
+1647879196699,864,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,66199,118,7,7,https://www.amazon.in/,506,0,246
+1647879197563,896,HTTP Request,200,OK,Thread Group 1-5,text,true,,67940,236,6,6,https://www.amazon.in/,128,0,62
+1647879197563,128,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,,true,,169,118,6,6,http://www.amazon.in/,128,0,62
+1647879197692,767,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,67771,118,6,6,https://www.amazon.in/,516,0,244
+1647879198561,1000,HTTP Request,200,OK,Thread Group 1-6,text,true,,67453,236,5,5,https://www.amazon.in/,149,0,73
+1647879198561,149,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,,true,,169,118,5,5,http://www.amazon.in/,149,0,73
+1647879198711,850,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,67284,118,5,5,https://www.amazon.in/,457,0,210
+1647879199560,910,HTTP Request,200,OK,Thread Group 1-7,text,true,,68069,236,4,4,https://www.amazon.in/,162,0,79
+1647879199560,162,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,,true,,169,118,4,4,http://www.amazon.in/,162,0,79
+1647879199723,747,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,67900,118,4,4,https://www.amazon.in/,495,0,244
+1647879200561,943,HTTP Request,200,OK,Thread Group 1-8,text,true,,67842,236,3,3,https://www.amazon.in/,149,0,73
+1647879200561,149,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,,true,,169,118,3,3,http://www.amazon.in/,149,0,73
+1647879200712,792,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,67673,118,3,3,https://www.amazon.in/,487,0,204
+1647879201559,1013,HTTP Request,200,OK,Thread Group 1-9,text,true,,69852,236,2,2,https://www.amazon.in/,160,0,79
+1647879201559,160,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,,true,,169,118,2,2,http://www.amazon.in/,160,0,79
+1647879201721,851,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,69683,118,2,2,https://www.amazon.in/,460,0,208
+1647879202560,830,HTTP Request,200,OK,Thread Group 1-10,text,true,,67691,236,1,1,https://www.amazon.in/,137,0,67
+1647879202560,137,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,,true,,169,118,1,1,http://www.amazon.in/,137,0,67
+1647879202698,692,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,67522,118,1,1,https://www.amazon.in/,461,0,214
+1647926943564,877,HTTP Request,200,OK,Thread Group 1-2,text,true,,66502,236,2,2,https://www.amazon.in/,79,0,40
+1647926942511,1934,HTTP Request,200,OK,Thread Group 1-1,text,true,,69888,236,2,2,https://www.amazon.in/,124,0,78
+1647926943564,79,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,579,118,2,2,http://www.amazon.in/,79,0,40
+1647926942511,127,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,579,118,2,2,http://www.amazon.in/,124,0,78
+1647926943644,797,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,65923,118,2,2,https://www.amazon.in/,554,0,352
+1647926942642,1803,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,69309,118,2,2,https://www.amazon.in/,1556,0,1355
+1647926944813,697,HTTP Request,200,OK,Thread Group 1-3,text,true,,68087,236,1,1,https://www.amazon.in/,80,0,40
+1647926944813,80,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,579,118,1,1,http://www.amazon.in/,80,0,40
+1647926944895,615,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,67508,118,1,1,https://www.amazon.in/,320,0,137
+1647926946062,660,HTTP Request,200,OK,Thread Group 1-4,text,true,,68016,236,1,1,https://www.amazon.in/,91,0,46
+1647926946062,91,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,579,118,1,1,http://www.amazon.in/,91,0,46
+1647926946155,567,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,67437,118,1,1,https://www.amazon.in/,311,0,129
+1647926947312,677,HTTP Request,200,OK,Thread Group 1-5,text,true,,68502,236,1,1,https://www.amazon.in/,98,0,50
+1647926947312,98,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,579,118,1,1,http://www.amazon.in/,98,0,50
+1647926947411,578,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,67923,118,1,1,https://www.amazon.in/,320,0,134
+1647926948559,676,HTTP Request,200,OK,Thread Group 1-6,text,true,,67891,236,1,1,https://www.amazon.in/,99,0,50
+1647926948559,99,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,579,118,1,1,http://www.amazon.in/,99,0,50
+1647926948660,575,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,67312,118,1,1,https://www.amazon.in/,315,0,133
+1647926949810,650,HTTP Request,200,OK,Thread Group 1-7,text,true,,69503,236,1,1,https://www.amazon.in/,76,0,38
+1647926949810,76,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,579,118,1,1,http://www.amazon.in/,76,0,38
+1647926949888,572,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,68924,118,1,1,https://www.amazon.in/,316,0,134
+1647926951061,704,HTTP Request,200,OK,Thread Group 1-8,text,true,,68509,236,1,1,https://www.amazon.in/,77,0,39
+1647926951061,77,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,579,118,1,1,http://www.amazon.in/,77,0,39
+1647926951140,625,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,67930,118,1,1,https://www.amazon.in/,359,0,167
